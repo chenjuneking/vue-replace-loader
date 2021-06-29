@@ -1,6 +1,6 @@
 {
   "name": "vue-replace-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Webpack loader for replacing strings of vue single-file component",
   "main": "src/index.js",
   "scripts": {

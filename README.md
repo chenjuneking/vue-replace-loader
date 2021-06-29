@@ -10,7 +10,7 @@ yarn add vue-replace-loader --dev
 
 ## Usage
 
-Suppose there are some special placeholders in your template, like `__ENV__`, `__PORT__`, `__REMOTE_CSS__`, and you want to replace them with variables when compiling.
+Suppose there are some special placeholders in your template, like `__ENV__`, `__PORT__`, `__REMOTE_CSS__`, and you want to replace them with variable value when compiling.
 ```js
 // my-component.vue
 <template>
